@@ -1,0 +1,5 @@
+{
+  "name": "Lista de Tarefas Simples",
+  "description": "Uma aplicação de lista de tarefas simples para demonstrar uma arquitetura de frontend conectada a um backend de microsserviços. As tarefas são gerenciadas localmente para simular chamadas de API para um serviço de tarefas.",
+  "requestFramePermissions": []
+}
